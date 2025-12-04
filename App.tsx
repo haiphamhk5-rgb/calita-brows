@@ -1,6 +1,5 @@
 
 import React, { useState } from 'react';
-import { InputForm } from './components/InputForm';
 import { AnalysisDisplay } from './components/AnalysisDisplay';
 import { analyzeProfile } from './services/geminiService';
 import { AnalysisResult } from './types';
