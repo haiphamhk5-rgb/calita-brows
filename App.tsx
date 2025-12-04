@@ -104,7 +104,6 @@ const App: React.FC = () => {
                         </div>
                     </div>
                 ) : (
-                    <InputForm onSubmit={handleAnalysis} isLoading={loading} />
                 )}
             </div>
           </div>
